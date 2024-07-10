@@ -3,7 +3,9 @@ This react hook allows easy set up for drag and drop class switching and drop ha
 
 For a working example, view the code sandbox [here](https://codesandbox.io/p/devbox/react-drag-and-drop-hook-ts-pwgvyh), or see below.
 
-*Notes: I'm using react-bootstrap in the example code for easy styling here, but it is not in any way required for use with this hook. In this example we are spreading both the draggable props and the droppable props provided by the hook on each element, making each element both draggable and droppable, but you can of course keep the draggable and droppable elements separate and use however you like. This example allows the user to use dragging and dropping to sort the Card elements in any order.*
+*Notes: I'm using react-bootstrap in the example code for easy styling here, but it is not in any way required for use with this hook.*
+
+In this example we are spreading both the draggable props and the droppable props provided by the hook on each element, making each element both draggable and droppable, but you can of course keep the draggable and droppable elements separate and use however you like. This example allows the user to use dragging and dropping to sort the Card elements in any order.
 
 **Example usage:**
 
